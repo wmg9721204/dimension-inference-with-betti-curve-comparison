@@ -8,7 +8,7 @@ Install the Simplicial package. Details can be found [here](https://github.com/n
 ```Julia
 import Pkg; Pkg.add("Simplicial");
 ```
-Install the JLD package. Details can be dound [here](https://github.com/JuliaIO/JLD.jl).
+Install the JLD package. Details can be found [here](https://github.com/JuliaIO/JLD.jl).
 ```Julia
 import Pkg; Pkg.add("JLD");
 ```
